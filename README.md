@@ -17,25 +17,18 @@ This project investigates demographic and clinical predictors of ovarian cancer 
 
 ## Methods
 
-* Kaplan-Meier Survival Analysis
-* Cox Proportional Hazards Regression
-* Statistical Modeling in R
-* Data Visualization
+- Kaplan-Meier Survival Analysis
+- Cox Proportional Hazards Regression
+- Statistical Modeling in R
+- Data Visualization using ggplot2
+- Survival Analysis using SEER population-level data
+  
+## Results
 
-## Key Findings
-
-* Stage at diagnosis was the strongest predictor of mortality.
-* Distant-stage disease was associated with substantially higher mortality risk.
-* Advanced age and higher tumor grade were associated with poorer survival outcomes.
-* Significant racial disparities in survival were observed.
-
-## Tools
-
-* R
-* RStudio
-* Survival Analysis
-* Statistical Modeling
-* Data Visualization
+- Analyzed 124,215 ovarian cancer patients from the SEER database
+- Identified stage at diagnosis as the strongest predictor of mortality
+- Demonstrated significant survival disparities across age and racial groups
+- Developed survival models using Cox proportional hazards regression
 
 ## Repository Contents
 
